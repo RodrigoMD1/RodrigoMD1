@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rodrigo</h1>
 <h3 align="center">A passionate new frontend developer from Buenos Aires, Argentina</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigomd1&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigomd1" /> </p>
+
 - 🌱 I’m currently learning **I'm finishing a web development course and the next one is javascript and after React**
 
 - 📫 How to reach me **rodrigo.martinez224@gmail.com**
