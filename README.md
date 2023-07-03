@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I'm finishing a web development coderhouse course and then I continue with javascript and after that with react, what I want most is to learn and I'm not lacking, learning programming is I think the third thing I want most in my life and the others The first two are being with my girlfriend the love of my life ("chulita" "Lourdes Jazmin Ledesma :) " :)") and the second is star wars and now I discovered the third which is programming</h4>
+<h4 align="left">a</h4>
 
 ###
 
