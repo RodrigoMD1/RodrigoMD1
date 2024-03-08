@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">a</h4>
+<h4 align="left">tengo conocimientos en desarrollo front-end y proximamente fullstack ,tengo conocimiento de reactjs ,typescript, html,css,tailwindcss,nodejs</h4>
 
 ###
 
