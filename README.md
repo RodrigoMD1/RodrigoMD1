@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Rodrigo and I'm a new web developer from Buenos Aires ,Argentina</h1>
+<h1 align="left">Hi 👋! My name is Rodrigo and I'm a web developer from Buenos Aires ,Argentina</h1>
 
 ###
 
