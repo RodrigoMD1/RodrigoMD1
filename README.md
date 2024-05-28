@@ -4,6 +4,12 @@
 
 <h4 align="left">tengo conocimientos en desarrollo front-end y proximamente fullstack ,tengo conocimiento de reactjs ,typescript, html,css,tailwindcss,nodejs</h4>
 
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 ###
 
 <div align="left">
