@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋! My name is Rodrigo and I'm a web developer from Buenos Aires ,Argentina</h1>
 
 ###
-
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <h4 align="left"> Programador Fullstack hace 2 años tengo conocimiento de reactjs ,typescript, html,css,tailwindcss,nodejs</h4>
 
 <!--- snake -->
